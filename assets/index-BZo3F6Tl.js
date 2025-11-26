@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta id="ios-header-color" name="theme-color" content="#1D59F9" />
     <meta name="msapplication-TileColor" content="#1D59F9">
-    <meta name="msapplication-config" content="/browserconfig.xml">
+    <meta name="msapplication-config" content="browserconfig.xml">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
 
-    <link rel="icon" href="/favicon.png">
+    <link rel="icon" href="favicon.png">
 
     <script defer src="https://analytics.qrfy.com/js/plausible.js"></script>
 
-    <link rel="manifest" href="/manifest.json" />
+    <link rel="manifest" href="manifest.json" />
 
     <link rel="preload" href="fonts/lato-400.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="fonts/lato-700.woff2" as="font" type="font/woff2" crossorigin>
@@ -169,8 +169,8 @@
         "url" : "https://qrfy.com/"
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-Du66ALBI.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BKpcvWE2.css">
+    <script type="module" crossorigin src="assets/index-Du66ALBI.js"></script>
+    <link rel="stylesheet" crossorigin href="assets/index-BKpcvWE2.css">
   </head>
   <body>
     <div id="root"></div>
